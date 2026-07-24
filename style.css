@@ -4,7 +4,7 @@
     margin: 0;
 }
 body {
-    background-color: hsl(330, 100%, 98%);
+    background-color: rgb(243, 229, 216);
     font-family: "Outfit";
 }
 
@@ -134,8 +134,8 @@ footer a {
 /* --- MEDIA QUERIES --- */
 @media screen and (min-width:1025px) {
     .recipe-card {
-        margin: 8rem 16rem;
-        border-radius: 1rem;
+        margin: 8rem 20rem;
+        border-radius: 2rem;
     }
     .recipe-card__img-container{
         padding: 2rem;
